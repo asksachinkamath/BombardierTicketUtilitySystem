@@ -1,0 +1,7 @@
+D:\Bombardier\BombardierTicketUtility\BL\bin\Debug\BL.dll
+D:\Bombardier\BombardierTicketUtility\BL\bin\Debug\BL.pdb
+D:\Bombardier\BombardierTicketUtility\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+D:\Bombardier\BombardierTicketUtility\BL\obj\Debug\BL.dll
+D:\Bombardier\BombardierTicketUtility\BL\obj\Debug\BL.pdb
+D:\Bombardier\BombardierTicketUtility\BL\bin\Debug\Model.dll
+D:\Bombardier\BombardierTicketUtility\BL\bin\Debug\Model.pdb

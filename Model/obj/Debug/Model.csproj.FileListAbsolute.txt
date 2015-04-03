@@ -1,0 +1,5 @@
+c:\users\amalin.chatterjee\documents\visual studio 2012\Projects\BombardierTicketUtility\Model\bin\Debug\Model.dll
+c:\users\amalin.chatterjee\documents\visual studio 2012\Projects\BombardierTicketUtility\Model\bin\Debug\Model.pdb
+c:\users\amalin.chatterjee\documents\visual studio 2012\Projects\BombardierTicketUtility\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+c:\users\amalin.chatterjee\documents\visual studio 2012\Projects\BombardierTicketUtility\Model\obj\Debug\Model.dll
+c:\users\amalin.chatterjee\documents\visual studio 2012\Projects\BombardierTicketUtility\Model\obj\Debug\Model.pdb
