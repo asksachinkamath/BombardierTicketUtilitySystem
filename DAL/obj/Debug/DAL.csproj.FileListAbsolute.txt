@@ -34,3 +34,15 @@ D:\Bombardier\New folder\BombardierTicketUtility\DAL\bin\Debug\EntityFramework.S
 D:\Bombardier\New folder\BombardierTicketUtility\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
 D:\Bombardier\New folder\BombardierTicketUtility\DAL\obj\Debug\DAL.dll
 D:\Bombardier\New folder\BombardierTicketUtility\DAL\obj\Debug\DAL.pdb
+D:\Bombardier\BombardierTicketUtilityNew\BombardierTicketUtility\DAL\bin\Debug\DAL.dll.config
+D:\Bombardier\BombardierTicketUtilityNew\BombardierTicketUtility\DAL\bin\Debug\DAL.dll
+D:\Bombardier\BombardierTicketUtilityNew\BombardierTicketUtility\DAL\bin\Debug\DAL.pdb
+D:\Bombardier\BombardierTicketUtilityNew\BombardierTicketUtility\DAL\bin\Debug\EntityFramework.dll
+D:\Bombardier\BombardierTicketUtilityNew\BombardierTicketUtility\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Bombardier\BombardierTicketUtilityNew\BombardierTicketUtility\DAL\bin\Debug\Model.dll
+D:\Bombardier\BombardierTicketUtilityNew\BombardierTicketUtility\DAL\bin\Debug\Model.pdb
+D:\Bombardier\BombardierTicketUtilityNew\BombardierTicketUtility\DAL\bin\Debug\EntityFramework.xml
+D:\Bombardier\BombardierTicketUtilityNew\BombardierTicketUtility\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Bombardier\BombardierTicketUtilityNew\BombardierTicketUtility\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Bombardier\BombardierTicketUtilityNew\BombardierTicketUtility\DAL\obj\Debug\DAL.dll
+D:\Bombardier\BombardierTicketUtilityNew\BombardierTicketUtility\DAL\obj\Debug\DAL.pdb

@@ -3,3 +3,8 @@ c:\users\amalin.chatterjee\documents\visual studio 2012\Projects\BombardierTicke
 c:\users\amalin.chatterjee\documents\visual studio 2012\Projects\BombardierTicketUtility\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
 c:\users\amalin.chatterjee\documents\visual studio 2012\Projects\BombardierTicketUtility\Model\obj\Debug\Model.dll
 c:\users\amalin.chatterjee\documents\visual studio 2012\Projects\BombardierTicketUtility\Model\obj\Debug\Model.pdb
+D:\Bombardier\BombardierTicketUtilityNew\BombardierTicketUtility\Model\bin\Debug\Model.dll
+D:\Bombardier\BombardierTicketUtilityNew\BombardierTicketUtility\Model\bin\Debug\Model.pdb
+D:\Bombardier\BombardierTicketUtilityNew\BombardierTicketUtility\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+D:\Bombardier\BombardierTicketUtilityNew\BombardierTicketUtility\Model\obj\Debug\Model.dll
+D:\Bombardier\BombardierTicketUtilityNew\BombardierTicketUtility\Model\obj\Debug\Model.pdb

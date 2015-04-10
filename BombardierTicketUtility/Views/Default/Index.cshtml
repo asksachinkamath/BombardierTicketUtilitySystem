@@ -1,0 +1,11 @@
+﻿@model BombardierTicketUtility.ViewModel.CategoryViewModel
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+
+
+@Html.DropDownListFor(x=>Model.Id,Model.CategoryList,"")   
